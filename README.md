@@ -6,6 +6,8 @@ Hi, I’m Bruno Filho! I’m mainly interested in web and mobile development, bu
 <h2>Contact</h2>
     📧<a href="mailto:oliveira.brunofilho@gmail.com"> oliveira.brunofilho@gmail.com</a>
 <br>
+   🔗 LinkedIn: https://www.linkedin.com/in/brunofilho1/
+<br>
    🤙 Discord: deadpunk#0103
 
 <!---
