@@ -19,7 +19,7 @@ Hi, I’m Bruno Filho! I’m mainly interested in web and mobile development, bu
    🤙 Discord: deadpunk#0103
 <br>
 <br>
-<img src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif"/>
+<img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/>
 
 <!---
 deadpunk551/deadpunk551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
