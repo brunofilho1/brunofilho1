@@ -27,14 +27,16 @@
 </br>
     
 <h2 title="Contato" align="center">Entre em contato!</h2>
-    📧 Email: <a href="mailto:oliveira.brunofilho@gmail.com"> oliveira.brunofilho@gmail.com</a>
-<br>
-   🔗 LinkedIn: https://www.linkedin.com/in/brunofilho1/
-<br>
-   🤙 Discord: deadpunk#0103
-<br>
-<br>
-<img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/>
+
+<div align="center"> 
+  <a href="https://www.youtube.com/c/BrunoFilho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:oliveira.brunofilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunofilho1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <!---
 deadpunk551/deadpunk551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
