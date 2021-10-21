@@ -29,7 +29,7 @@
 <h2 title="Contato" align="center">Entre em contato!</h2>
 
 <div align="center"> 
-  <a href="https://www.youtube.com/c/BrunoFilho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://www.youtube.com/c/BrunoFilho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --->
   <a href = "mailto:oliveira.brunofilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunofilho1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
