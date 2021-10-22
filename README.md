@@ -1,7 +1,7 @@
 <h1 title="Sobre mim!" align="center">Sobre mim! 👨‍💻</h1>
 
 
-<p align="center">Hi, I’m Bruno Filho! I’m mainly interested in web and mobile development, but, in this moment, I’m currently just focused in web development. I work with JavaScript, NodeJS, Express Framework, React, MongoDB/MySQL and Bulma CSS Framework (I also love manual and pure CSS).</p>
+<p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou focado principalmente em desenvolvimento web, mas, com intenção de também trabalhar com React Native no mobile em algum futuro não tão distante, eu espero hsuahsuahs. Gosto de trabalhar com JavaScript, TypeScript, Babel, NodeJS, Express, React, MongoDB/MySQL/SQLite e Bulma (mas também amo desenvolver CSS puro).</p>
 
 </br>
 
@@ -14,6 +14,7 @@
 </br>
 
 <div align="center" style="display: inline_block"> 
+<img title="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img title="HTML" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img title="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -22,6 +23,8 @@
 <img title="MongoDB" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img title="Bulma CSS Framework" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/>
+<img title="Babel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"/>
+<img title="Git" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
 </br>
