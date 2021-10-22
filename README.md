@@ -25,11 +25,13 @@
 <img title="Bulma CSS Framework" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/>
 <img title="Babel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"/>
 <img title="Git" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img title="Heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"/>
+<img title="NPM" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
 </div>
 
 </br>
     
-<h2 title="Contato" align="center">Entre em contato!</h2>
+<h2 title="Contato" align="center">Entre em contato! 📬 </h2>
 
 <div align="center"> 
  <!-- <a href="https://www.youtube.com/c/BrunoFilho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --->
