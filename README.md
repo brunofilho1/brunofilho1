@@ -26,7 +26,7 @@
 <img title="Babel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"/>
 <img title="Git" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img title="Heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"/>
-<img title="NPM" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+<img title="Firebase" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 </div>
 
 </br>
