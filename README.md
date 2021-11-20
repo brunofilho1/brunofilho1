@@ -1,7 +1,7 @@
 <h1 title="Sobre mim!" align="center">Sobre mim! 👨‍💻</h1>
 
 
-<p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou focado principalmente em desenvolvimento web, mas, com intenção de também trabalhar com React Native no mobile em algum futuro não tão distante, eu espero hsuahsuahs. Gosto de trabalhar com JavaScript, TypeScript, Babel, NodeJS, Express, React, MongoDB/MySQL/SQLite e Bulma (mas também amo desenvolver CSS puro).</p>
+<p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou focado principalmente em desenvolvimento web, mas, com intenção de também trabalhar com React Native em algum futuro não tão distante, eu espero hsuahsuahs. Gosto de trabalhar com JavaScript, TypeScript, Babel, NodeJS, Express, React, MongoDB/MySQL/SQLite e Bulma (mas também amo desenvolver CSS puro).</p>
 
 </br>
 
