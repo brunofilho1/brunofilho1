@@ -1,8 +1,11 @@
 <h1 title="Sobre mim!" align="center">Sobre mim! 👨‍💻</h1>
 
-
+<div >
+<img align='right' src='https://giffiles.alphacoders.com/360/36088.gif' width='100px'>
 <p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou focado principalmente em desenvolvimento web, mas, com intenção de também trabalhar com React Native em algum futuro não tão distante, eu espero hsuahsuahs. Gosto de trabalhar com JavaScript, TypeScript, NodeJS, Express, React, MongoDB/MySQL/SQLite e Bulma (mas também amo desenvolver CSS puro).</p>
 
+</div>
+  
 </br>
 
 <div align="center">
@@ -46,6 +49,7 @@
 ![Snake animation](https://github.com/brunofilho1/brunofilho1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
 
 <!---
 deadpunk551/deadpunk551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
