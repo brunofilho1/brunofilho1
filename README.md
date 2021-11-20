@@ -37,7 +37,7 @@
 <h2 title="Contato" align="center">Entre em contato! 📬 </h2>
 
 <div align="center"> 
- <!-- <a href="https://www.youtube.com/c/BrunoFilho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --->
+
   <a title="E-mail" href="mailto:oliveira.brunofilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="LinkedIn" href="https://www.linkedin.com/in/brunofilho1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a title="Twitter" href="https://twitter.com/_brunofilho1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
@@ -49,7 +49,6 @@
 ![Snake animation](https://github.com/brunofilho1/brunofilho1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
 
 <!---
 deadpunk551/deadpunk551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
