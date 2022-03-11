@@ -3,7 +3,7 @@
 <div >
 <img align='left' src='https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif' width='100px'>
 <img align='right' src='https://giffiles.alphacoders.com/360/36088.gif' width='100px'>
-<p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou focado principalmente em desenvolvimento web, mas, com intenção de também trabalhar com React Native em algum futuro não tão distante, eu espero hsuahsuahs. Gosto de trabalhar com JavaScript, TypeScript, NodeJS, Express, React, MongoDB/MySQL/SQLite...</p>
+<p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou focado principalmente em desenvolvimento web, mas, com intenção de também trabalhar com React Native em algum futuro não tão distante, eu espero hsuahsuahs. Gosto de trabalhar com TypeScript, Node.js, Express, React, MongoDB/MySQL/Firebase...</p>
 
 </div>
   
