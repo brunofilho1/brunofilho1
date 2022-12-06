@@ -46,7 +46,7 @@
   <!--<a title="Telegram" href="https://t.me/brunofilho1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> -->
 </p>
 <img title="Me adiciona no Discord! @deadpunk0103" align="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
-<p>deadpunk#0103</p>
+<p>Bruno Filho#0103</p>
 
  
 </div>
