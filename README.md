@@ -3,7 +3,7 @@
 <div>
 <!--<img align='left' src='https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif' width='100px'>
 <img align='right' src='https://giffiles.alphacoders.com/360/36088.gif' width='100px'> -->
-<p align="center">Opa, e aí, seja bem vindo(a) ao meu perfil e sinta-se a vontade pra entrar em contato! Sou desenvolvedor web, trabalho principalmente com TypeScript, React e Node.js.</p>
+<p align="center">Opa, e aí, seja bem vindo(a)! Amo tecnologia, música e jogos! Sou desenvolvedor web, trabalho principalmente com TypeScript, React.js, Next.js e C#.</p>
 
 </div>
   
