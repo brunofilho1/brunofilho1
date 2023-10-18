@@ -1,4 +1,4 @@
-<h1 title="Sobre mim!" align="center">Sobre mim! 👨‍💻</h1>
+<h1 title="Sobre mim!" align="center">Sobre mim.</h1>
 
 <div>
 <!--<img align='left' src='https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif' width='100px'>
@@ -17,6 +17,7 @@
     
 </br>
 
+<!--
 <div align="center" style="display: inline_block"> 
 <img title="HTML" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img title="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -31,9 +32,11 @@
 <img title="Firebase" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 </div>
 
+-->
+
 </br>
     
-<h2 title="Contato" align="center">Entre em contato! 📬 </h2>
+<h2 title="Contato" align="center">Contato. </h2>
 
 <div align="center"> 
 <img align='right' src='https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif' width='100px'>
@@ -43,8 +46,6 @@
   <!--<a title="Twitter" href="https://twitter.com/_brunofilho1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
   <!--<a title="Telegram" href="https://t.me/brunofilho1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> -->
 </p>
-<img title="Me adiciona no Discord! @deadpunk0103" align="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
-<p>brunofilho1</p>
 
  
 </div>
