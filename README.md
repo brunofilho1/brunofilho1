@@ -4,7 +4,7 @@
 
 Amo tecnologia, música e jogos! Sou desenvolvedor web, trabalho principalmente com TypeScript, React.js, Next.js e C#.
 
-- ⚙️ uso diariamente: `TypeScript`, `React.js`, `Next.js`, `TailwindCSS`, `CSharp`, 
+- ⚙️ uso diariamente: `TypeScript`, `React.js`, `Next.js`, `TailwindCSS`, `CSharp`, `ASP.NET Core`, `SQL`, `...`
 - 🌍 não fico muito ativo em redes sociais mas tô sempre mexendo com alguma coisa
 - 💬 me chama ae pra falar sobre **desenvolvimento**, **web**, **games**, **música**, **ciência**
 
